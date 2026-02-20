@@ -1,0 +1,7 @@
+{
+  "name": "Wanderlust AI Travel Planner",
+  "description": "A sophisticated AI-powered travel planning application that helps you discover destinations, manage itineraries, track budgets, and organize your next adventure with the help of Gemini AI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
